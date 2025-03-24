@@ -1,0 +1,79 @@
+
+
+.name {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.106);
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0);
+    font-family: 'Montserrat', sans-serif;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+
+}
+
+span {
+    font-weight: bolder;
+}
+
+
+.header h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.navbar .nav-link {
+    font-size: 25px; /* Размер шрифта для навигационных ссылок */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.nav-p {
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.container p {
+    font-size: 25px;
+}
+
+.container h2 {
+    font-size: 40px;
+}
+
+
+
